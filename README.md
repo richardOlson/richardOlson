@@ -3,6 +3,14 @@
 <!--
 **richardOlson/richardOlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+My name is Richard Olson.  I enjoy programming and understanding the things around me with data science.
+
+I enjoy hiking the mountains around me and running.
+
+You can find more about me and some of the projects that I have
+worked on at:
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
