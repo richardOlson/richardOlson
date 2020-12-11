@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-####My name is Richard Olson.  
+#### My name is Richard Olson.  
 I enjoy programming and understanding the things around me with data science.
 
 I enjoy hiking the mountains around me and running.
