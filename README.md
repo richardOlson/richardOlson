@@ -12,14 +12,14 @@ worked on at:
 - [linkedin](https://www.linkedin.com/in/richard-olson-0129)
 
 - Tech Stack:
- -- Python
- -- Java
- -- C
- -- Pandas
- -- SQL
- -- Flask
- -- Scikit Learn
- -- Tensorflow
+  - Python
+  - Java
+  - C
+  - Pandas
+  - SQL
+  - Flask
+  - Scikit Learn
+  - Tensorflow
 
 <!--
 **richardOlson/richardOlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
