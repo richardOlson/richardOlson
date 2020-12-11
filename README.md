@@ -11,6 +11,9 @@ worked on at:
 - [My github.io page](https://richardolson.github.io/)
 - [linkedin](https://www.linkedin.com/in/richard-olson-0129)
 
+- Tech Stack:
+  :Java:
+
 <!--
 **richardOlson/richardOlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
