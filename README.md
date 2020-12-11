@@ -9,7 +9,7 @@ I enjoy hiking the mountains around me and running.:running: :mountain:
 You can find more about me and some of the projects that I have
 worked on at:
 - [My github.io page](https://richardolson.github.io/)
-- [linkedin](www.linkedin.com/in/richard-olson-0129)
+- [linkedin](https://www.linkedin.com/in/richard-olson-0129)
 
 <!--
 **richardOlson/richardOlson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
