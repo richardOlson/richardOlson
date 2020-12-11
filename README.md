@@ -4,7 +4,7 @@
 #### My name is Richard Olson.  
 I enjoy programming and understanding the things around me with data science.
 
-I enjoy hiking the mountains around me and running.
+I enjoy hiking the mountains around me and running.:mountain:
 
 You can find more about me and some of the projects that I have
 worked on at:
