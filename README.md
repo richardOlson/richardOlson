@@ -11,7 +11,7 @@ worked on at:
 - [My github.io page](https://richardolson.github.io/)
 - [linkedin](https://www.linkedin.com/in/richard-olson-0129)
 
-Contact me at [my_email_address](danandersonmobile@yahoo.com)
+Contact me at [my_email_address](mailto:danandersonmobile@yahoo.com)
 
 - Tech Stack:
   - Python
